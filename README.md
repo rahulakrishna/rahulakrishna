@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on React
 - 💬 Ask me about React and Javascript
-- 😄 Pronouns: Him/His
